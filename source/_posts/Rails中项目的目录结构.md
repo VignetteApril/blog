@@ -1,7 +1,7 @@
 ---
 title:  Rails中项目的目录结构
 date:   2017-05-07
-tags: [Rails, Action Cable]
+tags: [Rails]
 categories: [Rails]
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Rails中的参数
 date: 2016-06-06
-tag: [Rails]
-category: Rails
+tags: [Rails]
+categories: [Rails]
 ---
 
 # Rails中的Params

@@ -1,8 +1,8 @@
 ---
 title: Ruby和YAML
 date: 2016-06-12
-tag: [Ruby, YAML]
-category: Ruby
+tags: [Ruby, YAML]
+categories: [Ruby]
 ---
 
 # Ruby中的YAML
