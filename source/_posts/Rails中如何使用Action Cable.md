@@ -1,7 +1,7 @@
 ---
 title:  Rails中如何使用Action Cable
 date:   2017-03-06
-tags: [Rails]
+tags: [Rails, Action Cable]
 categories: [Rails]
 ---
 Action Cable 通过提供给客户端JavaScript框架和服务器端Ruby框架把WebSocket协议和Rails应用的其余部分无缝的集成起来，通过Action Cable，可以轻松的为Rails应用提供实时更新功能，不仅性能良好，而且具有可扩展性。
