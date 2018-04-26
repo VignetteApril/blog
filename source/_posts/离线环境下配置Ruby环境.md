@@ -1,6 +1,6 @@
 ---
 title:  离线状态下配置Ruby环境
-date:   2017-06-06
+date:   2016-06-06
 tags: [Ruby]
 categories: [Ruby]
 ---
