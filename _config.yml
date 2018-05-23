@@ -80,3 +80,4 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/VignetteApril/VignetteApril.github.io.git
+  branch: master
